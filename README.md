@@ -18,25 +18,6 @@ A CLI tool which generates boilerplate code for nodejs server applications takin
     <!-- forks/stars/tech stack in the form of badges from https://shields.io/ -->
 </p>
 
-## Installation
- * Clone this repository
- <pre><code> git clone https://github.com/kaushalrathi24/create-boilerplate-node.git</code></pre>
- * Go to cloned repository
- <pre><code> cd create-boilerplate-node</code></pre>
- * Install dependencies
- <pre><code> npm install</code></pre>
- * Make the script available system wide
- <pre><code> npm link</code></pre>
-
----
-## Usage
- * Go to repository directory.
- * Windows Powershell
- <pre><code> create-boilerplate-node.cmd [Target Directory]</code></pre>
-
- * Linux/MacOs
- <pre><code> create-boilerplate-node [Target Directory]</code></pre>
-
 ---
 ## Submitting a Pull Request
 
@@ -71,23 +52,24 @@ A CLI tool which generates boilerplate code for nodejs server applications takin
 
 ---
 
--_domain specific guidelines here_-
-  
----
-## Overview
-
-The overview starts here. Random text about the project, motive, how, what, why etc.
+## Installation
+ * Clone this repository
+ <pre><code> git clone https://github.com/kaushalrathi24/create-boilerplate-node.git</code></pre>
+ * Go to cloned repository
+ <pre><code> cd create-boilerplate-node</code></pre>
+ * Install dependencies
+ <pre><code> npm install</code></pre>
+ * Make the script available system wide
+ <pre><code> npm link</code></pre>
 
 ---
 ## Usage
-<!-- How To, Features, Installation etc. as subheadings in this section. example-->
+ * Go to repository directory.
+ * Windows Powershell
+ <pre><code> create-boilerplate-node.cmd [Target Directory]</code></pre>
 
-Lets get started!
-```console
-git remote add
-git fetch
-git merge
-```
+ * Linux/MacOs
+ <pre><code> create-boilerplate-node [Target Directory]</code></pre>
 
 ---
 ## Authors
